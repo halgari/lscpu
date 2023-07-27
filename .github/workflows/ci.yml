@@ -1,5 +1,5 @@
 name:  Display information about GitHub Actions CPU architecture       
-on: push
+on: workflow_dispatch
 jobs:
   build:
     name: Testing
